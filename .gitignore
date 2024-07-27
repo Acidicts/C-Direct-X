@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.idea
+/Build/DirectX_Project/Debug
+/.vscode
+/.vs
+/OlympusEngine.sln
+/Olympus/Olympus.vcxproj.user
+/Olympus/Olympus.vcxproj.filters
+/Olympus/Olympus.vcxproj
+/DirectX_Project/Intermediate/Debug/DirectX_Project.tlog
+/DirectX_Project/Intermediate/Debug
+/DirectX_Project/DirectX_Project.vcxproj.user
+/DirectX_Project/DirectX_Project.vcxproj.filters
+/DirectX_Project/DirectX_Project.vcxproj
+/DirectX_Project/DirectX_Project.aps

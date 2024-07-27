@@ -94,9 +94,6 @@ VOID InitialiseWindow()
         MessageBox(0, L"Failed to Create Window!.", 0, 0);
         PostQuitMessage(0);
     }
-
-    ShowWindow(hWnd, SW_SHOW);
-    UpdateWindow(hWnd);
 }
 
 VOID MessageLoop()
