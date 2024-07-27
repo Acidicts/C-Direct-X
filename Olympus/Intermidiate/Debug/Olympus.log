@@ -1,0 +1,9 @@
+﻿  Olympus.cpp
+F:\ClionProjects\OlympusEngine\Olympus\Source\Olympus.cpp(1,1): error C2857: '#include' statement specified with the /YcOlympus.h command-line option was not found in the source file
+  IApplication.cpp
+F:\ClionProjects\OlympusEngine\Olympus\Source\Platform\WIN32\IApplication.h(11,15): error C3646: 'Initialised': unknown override specifier
+F:\ClionProjects\OlympusEngine\Olympus\Source\Platform\WIN32\IApplication.h(11,27): error C2059: syntax error: ')'
+F:\ClionProjects\OlympusEngine\Olympus\Source\Platform\WIN32\IApplication.h(11,32): error C2238: unexpected token(s) preceding ';'
+F:\ClionProjects\OlympusEngine\Olympus\Source\Platform\WIN32\IApplication.h(13,15): error C3646: 'Update': unknown override specifier
+F:\ClionProjects\OlympusEngine\Olympus\Source\Platform\WIN32\IApplication.h(13,22): error C2059: syntax error: ')'
+F:\ClionProjects\OlympusEngine\Olympus\Source\Platform\WIN32\IApplication.h(13,27): error C2238: unexpected token(s) preceding ';'

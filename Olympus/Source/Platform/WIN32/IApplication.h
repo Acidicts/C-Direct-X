@@ -1,13 +1,13 @@
 #pragma once
 
-class IApplication {
+class OLYMPUS_API IApplication {
 
 public:
 	IApplication();
 
 	virtual ~IApplication() = 0;
 
-private:
+public:
 	virtual VOID Initialised() = 0;
 
 	virtual VOID Update() = 0;
